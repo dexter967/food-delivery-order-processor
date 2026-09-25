@@ -1,0 +1,40 @@
+=====================================================
+            DAILY SALES SUMMARY REPORT              
+=====================================================
+
+Total Orders Received  : 10
+Successfully Processed : 7
+Rejected / Failed      : 3
+Total Revenue Generated: $435.53
+-----------------------------------------------------
+
+🏆 HIGHEST-VALUE ORDER
+-----------------------------------------------------
+Order ID     : ORD-110
+Customer     : Julia
+Subtotal     : $182.50
+Discount     : -$27.38 (15% off)
+Delivery Fee : $0.00
+Final Total  : $155.12
+-----------------------------------------------------
+
+📋 PROCESSED ORDERS BREAKDOWN
+-----------------------------------------------------
+ID         | Customer   | Subtotal  | Disc.   | Total    
+-----------------------------------------------------
+ORD-101    | Alice      | $39.00    | -$1.95  | $42.04  
+ORD-102    | Bob        | $18.50    | -$0.00  | $23.49  
+ORD-103    | Charlie    | $127.00   | -$19.05 | $107.95 
+ORD-105    | Evan       | $9.50     | -$0.00  | $14.49  
+ORD-107    | George     | $113.00   | -$16.95 | $96.05  
+ORD-109    | Ian        | $30.50    | -$1.53  | $28.97  
+ORD-110    | Julia      | $182.50   | -$27.38 | $155.12 
+
+⚠️ REJECTED ORDERS & ISSUES
+-----------------------------------------------------
+[ORD-104] Customer: Diana | Reason: Order contains no items (empty order).
+[ORD-106] Customer: Fiona | Reason: Invalid menu item code: 'TACO'
+[ORD-108] Customer: Hannah | Reason: Invalid quantity (-1) for item 'FRIES'
+
+=====================================================
+End of Report
