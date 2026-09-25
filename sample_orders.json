@@ -1,0 +1,83 @@
+[
+  {
+    "order_id": "ORD-101",
+    "customer": "Alice",
+    "items": [
+      {"item_code": "BURGER", "quantity": 2},
+      {"item_code": "FRIES", "quantity": 2},
+      {"item_code": "SODA", "quantity": 2}
+    ]
+  },
+  {
+    "order_id": "ORD-102",
+    "customer": "Bob",
+    "items": [
+      {"item_code": "PIZZA", "quantity": 1},
+      {"item_code": "SODA", "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "ORD-103",
+    "customer": "Charlie",
+    "items": [
+      {"item_code": "PASTA", "quantity": 4},
+      {"item_code": "DESSERT", "quantity": 3},
+      {"item_code": "PIZZA", "quantity": 2}
+    ]
+  },
+  {
+    "order_id": "ORD-104",
+    "customer": "Diana",
+    "items": []
+  },
+  {
+    "order_id": "ORD-105",
+    "customer": "Evan",
+    "items": [
+      {"item_code": "SALAD", "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "ORD-106",
+    "customer": "Fiona",
+    "items": [
+      {"item_code": "TACO", "quantity": 3}
+    ]
+  },
+  {
+    "order_id": "ORD-107",
+    "customer": "George",
+    "items": [
+      {"item_code": "PIZZA", "quantity": 3},
+      {"item_code": "PASTA", "quantity": 2},
+      {"item_code": "DESSERT", "quantity": 4}
+    ]
+  },
+  {
+    "order_id": "ORD-108",
+    "customer": "Hannah",
+    "items": [
+      {"item_code": "BURGER", "quantity": 1},
+      {"item_code": "FRIES", "quantity": -1}
+    ]
+  },
+  {
+    "order_id": "ORD-109",
+    "customer": "Ian",
+    "items": [
+      {"item_code": "PASTA", "quantity": 1},
+      {"item_code": "SALAD", "quantity": 1},
+      {"item_code": "SODA", "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "ORD-110",
+    "customer": "Julia",
+    "items": [
+      {"item_code": "BURGER", "quantity": 5},
+      {"item_code": "PIZZA", "quantity": 3},
+      {"item_code": "PASTA", "quantity": 2},
+      {"item_code": "DESSERT", "quantity": 5}
+    ]
+  }
+]
